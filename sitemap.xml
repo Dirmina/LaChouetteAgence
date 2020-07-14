@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"> 
+  <url>
+    <loc>https://dirmina.github.io/Projets/LaChouetteAgence/index.html</loc>
+    <lastmod>2020-13-05</lastmod>
+  </url>
+  <url>
+    <loc>https://dirmina.github.io/Projets/LaChouetteAgence/contact.html</loc>
+    <lastmod>2020-13-05</lastmod>
+  </url>
+  <url>
+    <loc>https://dirmina.github.io/Projets/LaChouetteAgence/index.html</loc>
+    <image:image>
+      <image:loc>https://dirmina.github.io/Projets/LaChouetteAgence/img/logo.png</image:loc>
+    </image:image>
+      <image:image>
+      <image:loc>https://dirmina.github.io/Projets/LaChouetteAgence/img/la-chouette-agence.png</image:loc>
+    </image:image>
+</urlset>
